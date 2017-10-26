@@ -1,32 +1,8 @@
 ## Thinking
+The world is so beautiful.however,the reality is so cool.
+But my classmates told me that be happy,because maybed someone is addicted in your smile.
+## Oneday
 
-You can use the [editor on GitHub](https://github.com/PingPeng/pingpeng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# 我的世界
-## 哈哈哈哈
-### 消愁
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
